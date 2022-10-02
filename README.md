@@ -1,4 +1,4 @@
-# Commercial project "Landing for the Lyubimovka festival"
+# Commercial project "Lending for the Lyubimovka festival"
 
 ## About the project:
 Lyubimovka Young Drama Festival is an independent non-profit collective project of Russian playwrights.
